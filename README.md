@@ -2,7 +2,8 @@
 
 A highly interactive and responsive Accordion component built with **React**, **TypeScript**, and **Tailwind CSS**.
 
-<img width="843" height="547" alt="image" src="https://github.com/user-attachments/assets/9c8dcb76-934d-4f9c-864d-093f8a0b2405" />
+<img width="1243" height="947" alt="image" src="https://github.com/user-attachments/assets/01342051-1380-4166-acee-40d4f48ed62a" />
+
 
 ## 🚀 Features
 
