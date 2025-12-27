@@ -1,6 +1,6 @@
 import { render, screen, fireEvent } from "@testing-library/react";
 import { describe, it, expect } from "vitest";
-import Accordion from "./../src/components/accordion";
+import Accordion from "../src/components/Accordion";
 import "@testing-library/jest-dom";
 
 describe("Accordion Component", () => {
