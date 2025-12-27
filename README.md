@@ -2,6 +2,9 @@
 
 A highly interactive and responsive Accordion component built with **React**, **TypeScript**, and **Tailwind CSS**.
 
+<img width="1243" height="947" alt="image" src="https://github.com/user-attachments/assets/01342051-1380-4166-acee-40d4f48ed62a" />
+
+
 ## 🚀 Features
 
 - **Hybrid Logic**: Switch between "Single" and "Multiple" expansion modes.
