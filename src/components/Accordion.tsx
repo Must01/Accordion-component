@@ -34,7 +34,7 @@ export default function Accordion() {
   return (
     <>
       <button
-        onClick={(e) => enableisMultiple()}
+        onClick={() => enableisMultiple()}
         className="rounded-md m-5 bg-amber-600 text-white p-2 hover:text-amber-600 hover:bg-white transition-all hover:border-amber-600 border shadow-md sm:absolute sm:bottom-5 sm:right-5 "
       >
         {ismultiple ? "Multiple" : "Single"}
@@ -46,8 +46,8 @@ export default function Accordion() {
               <div
                 onClick={
                   ismultiple
-                    ? (e) => handleMultiple(dataItem.id)
-                    : (e) => handleSingle(dataItem.id)
+                    ? () => handleMultiple(dataItem.id)
+                    : () => handleSingle(dataItem.id)
                 }
                 className="cursor-pointer p-2 flex justify-between items-center rounded-t-md bg-amber-100 "
                 key={dataItem.id}
